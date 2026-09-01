@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">angancare-web</string>
+    <string name="title_activity_main">angancare-web</string>
+    <string name="package_name">com.angancare.app</string>
+    <string name="custom_url_scheme">com.angancare.app</string>
+</resources>
